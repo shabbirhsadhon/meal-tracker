@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-12T10:40:54.957Z",
+  "createdAt": "2026-06-12T11:51:57.041Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -372,6 +372,13 @@
           "desc": "মিষ্টি কুমড়া, ডিম",
           "amount": 75,
           "date": "2026-06-11",
+          "buyer": "Alamin"
+        },
+        {
+          "id": "mqav91sokq5m",
+          "desc": "বাজার",
+          "amount": 355,
+          "date": "2026-06-12",
           "buyer": "Alamin"
         }
       ],
