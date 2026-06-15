@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-15T14:35:44.444Z",
+  "createdAt": "2026-06-15T16:13:42.228Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -433,6 +433,13 @@
           "id": "mqfbfgdlbzob",
           "desc": "লবণ",
           "amount": 42,
+          "date": "2026-06-15",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mqfet2oxiupd",
+          "desc": "লতি",
+          "amount": 70,
           "date": "2026-06-15",
           "buyer": "Sadhon"
         }
