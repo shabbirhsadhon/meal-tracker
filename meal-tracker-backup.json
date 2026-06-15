@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-15T12:03:52.527Z",
+  "createdAt": "2026-06-15T14:35:44.444Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -320,9 +320,10 @@
           "Shourov": 1
         },
         "15": {
-          "Sadhon": 1,
-          "Shahria": 1,
-          "Alamin": 1
+          "Sadhon": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 1
         },
         "18": {
           "Sadhon": 0
@@ -425,6 +426,13 @@
           "id": "mqf5wi931lzv",
           "desc": "মাছ, পিঁয়াজ, রসুন, মরিচ",
           "amount": 260,
+          "date": "2026-06-15",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mqfbfgdlbzob",
+          "desc": "লবণ",
+          "amount": 42,
           "date": "2026-06-15",
           "buyer": "Sadhon"
         }
