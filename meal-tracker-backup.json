@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-15T16:13:42.228Z",
+  "createdAt": "2026-06-16T10:45:21.398Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -325,6 +325,12 @@
           "Alamin": 2,
           "Shourov": 1
         },
+        "16": {
+          "Sadhon": 1,
+          "Shahria": 1,
+          "Alamin": 1,
+          "Shourov": 1
+        },
         "18": {
           "Sadhon": 0
         },
@@ -348,6 +354,14 @@
           "amount": 1319.46,
           "date": "2026-06-07",
           "note": "জমা ৳1510.00 - গত মাস দিতে হবে ৳190.54 = নেট ৳1319.46 (মে 2026)",
+          "isAdjustment": true
+        },
+        {
+          "id": "mqgidw5mtig8",
+          "user": "Shourov",
+          "amount": 899.77,
+          "date": "2026-06-16",
+          "note": "জমা ৳870.00 + গত মাস পাবে ৳29.77 = নেট ৳899.77 (মে 2026)",
           "isAdjustment": true
         }
       ],
@@ -442,11 +456,19 @@
           "amount": 70,
           "date": "2026-06-15",
           "buyer": "Sadhon"
+        },
+        {
+          "id": "mqgi83vgkof6",
+          "desc": "চাল",
+          "amount": 130,
+          "date": "2026-06-16",
+          "buyer": "Shahria"
         }
       ],
       "adjustedUsers": {
         "Sadhon": true,
-        "Shahria": true
+        "Shahria": true,
+        "Shourov": true
       },
       "finalCash": null
     }
