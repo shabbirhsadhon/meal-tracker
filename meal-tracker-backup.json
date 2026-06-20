@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-20T08:50:45.103Z",
+  "createdAt": "2026-06-20T14:10:39.811Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -551,6 +551,13 @@
           "id": "mqm4b40jntsl",
           "desc": "মুরগি, চাল,ডিম, মুরগির মসলা",
           "amount": 540,
+          "date": "2026-06-20",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mqmfqiqtrd4m",
+          "desc": "পিঁয়াজ",
+          "amount": 40,
           "date": "2026-06-20",
           "buyer": "Sadhon"
         }
