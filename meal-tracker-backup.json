@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-21T13:59:09.415Z",
+  "createdAt": "2026-06-21T14:07:18.291Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -10,11 +10,6 @@
     "Shourov"
   ],
   "months": {
-    "mt3_tg_settings": {
-      "token": "8905088030:AAEFDEi5ARme3dLNbB6DBdvu2LgXrZQwOQE",
-      "chatId": "6667029843",
-      "enabled": true
-    },
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -276,7 +271,7 @@
       ],
       "meals": {
         "1": {
-          "Sadhon": 0
+          "Sadhon": 0.5
         },
         "7": {
           "Sadhon": 1,
@@ -591,6 +586,11 @@
         "Nahian": true
       },
       "finalCash": null
+    },
+    "mt3_tg_settings": {
+      "token": "8905088030:AAEFDEi5ARme3dLNbB6DBdvu2LgXrZQwOQE",
+      "chatId": "6667029843",
+      "enabled": true
     }
   }
 }
