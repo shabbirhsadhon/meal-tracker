@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-22T13:00:07.510Z",
+  "createdAt": "2026-06-22T13:06:35.210Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -10,18 +10,6 @@
     "Shourov"
   ],
   "months": {
-    "mt3_tg_settings": {
-      "token": "8905088030:AAEFDEi5ARme3dLNbB6DBdvu2LgXrZQwOQE",
-      "enabled": true,
-      "delay": 5
-    },
-    "mt3_tg_subscribers": [
-      "6667029843",
-      "-5349620899",
-      "5631735177",
-      "6501020062",
-      "7177810831"
-    ],
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -389,6 +377,9 @@
           "Alamin": 1,
           "Shourov": 1
         },
+        "23": {
+          "Sadhon": 0.5
+        },
         "30": {
           "Sadhon": 0,
           "Nahian": 0
@@ -637,6 +628,18 @@
         "Nahian": true
       },
       "finalCash": null
-    }
+    },
+    "mt3_tg_settings": {
+      "token": "8905088030:AAEFDEi5ARme3dLNbB6DBdvu2LgXrZQwOQE",
+      "enabled": true,
+      "delay": 5
+    },
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "-5349620899",
+      "5631735177",
+      "6501020062",
+      "7177810831"
+    ]
   }
 }
