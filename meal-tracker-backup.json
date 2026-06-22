@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-22T08:40:02.449Z",
+  "createdAt": "2026-06-22T08:46:32.589Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -16,6 +16,12 @@
       "enabled": true,
       "delay": 5
     },
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "-5349620899",
+      "5631735177",
+      "6501020062"
+    ],
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -277,7 +283,7 @@
       ],
       "meals": {
         "1": {
-          "Sadhon": 0,
+          "Sadhon": 0.5,
           "Nahian": 0,
           "Shahria": 0,
           "Alamin": 0,
