@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-23T07:26:52.171Z",
+  "createdAt": "2026-06-23T07:38:35.679Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -271,7 +271,7 @@
       ],
       "meals": {
         "1": {
-          "Sadhon": 0,
+          "Sadhon": 0.5,
           "Nahian": 0,
           "Shahria": 0,
           "Alamin": 0,
@@ -638,5 +638,10 @@
       },
       "finalCash": null
     }
+  },
+  "tgSettings": {
+    "token": "8693248383:AAEt82OINqVLCzNrvLnUFHRTIVMUm91cG5s",
+    "enabled": true,
+    "delay": 5
   }
 }
