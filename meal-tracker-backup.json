@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-23T11:38:13.818Z",
+  "createdAt": "2026-06-23T11:42:20.849Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -642,14 +642,15 @@
       "token": "8693248383:AAEt82OINqVLCzNrvLnUFHRTIVMUm91cG5s",
       "enabled": true,
       "delay": 5,
-      "summaryHour": 0,
-      "summaryMin": 1
+      "summaryHour": 17,
+      "summaryMin": 43
     },
     "mt3_tg_messages": [],
     "mt3_tg_subscribers": [
       "6667029843",
       "5631735177",
-      "5567617813"
+      "5567617813",
+      "8594778816"
     ]
   }
 }
