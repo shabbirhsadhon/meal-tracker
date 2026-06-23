@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-23T09:16:28.200Z",
+  "createdAt": "2026-06-23T09:23:55.042Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -10,17 +10,6 @@
     "Shourov"
   ],
   "months": {
-    "mt3_tg_settings": {
-      "token": "8693248383:AAEt82OINqVLCzNrvLnUFHRTIVMUm91cG5s",
-      "enabled": true,
-      "delay": 5,
-      "summaryHour": 15,
-      "summaryMin": 15
-    },
-    "mt3_tg_subscribers": [
-      "6667029843",
-      "5631735177"
-    ],
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -272,7 +261,6 @@
       "adjustedUsers": {},
       "finalCash": 220
     },
-    "mt3_tg_messages": [],
     "mt3_2026_5": {
       "users": [
         "Sadhon",
@@ -283,7 +271,7 @@
       ],
       "meals": {
         "1": {
-          "Sadhon": 0,
+          "Sadhon": 0.5,
           "Nahian": 0,
           "Shahria": 0,
           "Alamin": 0,
@@ -649,6 +637,18 @@
         "Nahian": true
       },
       "finalCash": null
-    }
+    },
+    "mt3_tg_settings": {
+      "token": "8693248383:AAEt82OINqVLCzNrvLnUFHRTIVMUm91cG5s",
+      "enabled": true,
+      "delay": 5,
+      "summaryHour": 15,
+      "summaryMin": 15
+    },
+    "mt3_tg_messages": [],
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "5631735177"
+    ]
   }
 }
