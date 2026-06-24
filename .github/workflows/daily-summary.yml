@@ -11,7 +11,7 @@ on:
     #   সকাল ৮:০০ BST  → '0 2 * * *'
     #
     # ডিফল্ট: রাত ১২:০১ BST (18:01 UTC)
-    - cron: '39 6 * * *'
+    - cron: '42 6 * * *'
 
   # Manual trigger
   workflow_dispatch:
