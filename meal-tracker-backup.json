@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-23T18:20:58.274Z",
+  "createdAt": "2026-06-24T05:38:15.040Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -635,6 +635,13 @@
           "amount": 90,
           "date": "2026-06-23",
           "buyer": "Alamin"
+        },
+        {
+          "id": "mqrn6ylbzfm8",
+          "desc": "চাল,পিঁয়াজ,ডিম=280; ছড়া= 40",
+          "amount": 320,
+          "date": "2026-06-24",
+          "buyer": "Sadhon"
         }
       ],
       "adjustedUsers": {
