@@ -1,0 +1,45 @@
+name: Daily Meal Summary
+
+on:
+  schedule:
+    # UTC time — adjust করো নিজের সময় অনুযায়ী
+    # Bangladesh Standard Time = UTC+6
+    # তুমি যে time চাও তা থেকে 6 বাদ দাও
+    #
+    # উদাহরণ:
+    #   রাত ১২:০১ BST  → 18:01 UTC আগের দিন  → '1 18 * * *'
+    #   রাত ১০:০০ BST  → 16:00 UTC             → '0 16 * * *'
+    #   সকাল ৮:০০ BST  → 02:00 UTC             → '0 2 * * *'
+    #
+    # ডিফল্ট: রাত ১২:০১ BST (18:01 UTC)
+    - cron: '1 18 * * *'
+
+  # Manual trigger — নিজে চালাতে চাইলে
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'কারণ (optional)'
+        required: false
+        default: 'Manual run'
+
+jobs:
+  send-summary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Send Daily Summary to Telegram
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          GH_TOKEN:     ${{ secrets.GH_PAT }}
+          GH_USER:      ${{ secrets.GH_USER }}
+          GH_REPO:      ${{ secrets.GH_REPO }}
+        run: python send_daily_summary.py
