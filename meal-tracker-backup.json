@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-25T08:50:55.278Z",
+  "createdAt": "2026-06-25T08:53:11.472Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -760,12 +760,5 @@
       },
       "finalCash": null
     }
-  },
-  "tgSettings": {
-    "enabled": true,
-    "delay": 15,
-    "summaryHour": 0,
-    "summaryMin": 1
-  },
-  "tgEncrypted": "7OKC60LasFtUAnuBcRTOdtHO/6npCrClk2S6MAdHWeBM8mkBQIq8JMC7d7z499kNfpUiuOw/ZGw8Ip5NWZFP+YyC2lJH0M7QB1Rsa55DXwxU/prkldZmILFR"
+  }
 }
