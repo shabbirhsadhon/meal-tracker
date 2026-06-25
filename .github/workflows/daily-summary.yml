@@ -1,0 +1,27 @@
+name: Daily Telegram Summary
+
+on:
+  # Auto-run every day at 18:01 UTC = 00:01 BST (Bangladesh Standard Time, UTC+6)
+  schedule:
+    - cron: "1 18 * * *"
+
+  # Also allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  send-summary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run daily summary script
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python send_daily_summary.py
