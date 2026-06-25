@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-25T18:41:18.871Z",
+  "createdAt": "2026-06-25T18:44:31.419Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -694,7 +694,7 @@
       "enabled": true,
       "delay": 5,
       "summaryHour": 0,
-      "summaryMin": 41
+      "summaryMin": 1
     },
     "mt3_tg_messages": [
       {
