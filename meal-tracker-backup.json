@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-06-30T17:22:56.590Z",
+  "createdAt": "2026-06-30T17:44:24.004Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -724,7 +724,7 @@
         "Alamin": true,
         "Nahian": true
       },
-      "finalCash": null
+      "finalCash": 155
     },
     "mt3_tg_settings": {
       "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
