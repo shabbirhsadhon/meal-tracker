@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-01T13:38:25.678Z",
+  "createdAt": "2026-07-01T13:39:05.172Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -864,7 +864,15 @@
       "meals": {},
       "guests": {},
       "deposits": [],
-      "expenditures": [],
+      "expenditures": [
+        {
+          "id": "mr24ga5yj8cc",
+          "desc": "bazar",
+          "amount": 80,
+          "date": "2026-07-01",
+          "buyer": ""
+        }
+      ],
       "adjustedUsers": {},
       "finalCash": null
     }
