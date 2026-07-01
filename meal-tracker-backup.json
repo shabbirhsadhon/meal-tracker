@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-01T19:46:23.011Z",
+  "createdAt": "2026-07-01T19:46:34.627Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -861,7 +861,12 @@
         "Shahria",
         "Alamin"
       ],
-      "meals": {},
+      "meals": {
+        "1": {
+          "Shahria": 2,
+          "Alamin": 2
+        }
+      },
       "guests": {},
       "deposits": [],
       "expenditures": [
