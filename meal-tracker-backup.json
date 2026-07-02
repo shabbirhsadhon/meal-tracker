@@ -1,13 +1,14 @@
 {
   "version": 1,
-  "createdAt": "2026-07-02T17:15:22.428Z",
+  "createdAt": "2026-07-02T17:15:26.598Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
     "Nahian",
     "Shahria",
     "Alamin",
-    "Shopno"
+    "Shopno",
+    "Ovi"
   ],
   "months": {
     "mt3_2026_4": {
@@ -1070,7 +1071,8 @@
         "Nahian",
         "Shahria",
         "Alamin",
-        "Shopno"
+        "Shopno",
+        "Ovi"
       ],
       "meals": {
         "1": {
