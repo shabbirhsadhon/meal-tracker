@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-02T10:56:22.614Z",
+  "createdAt": "2026-07-02T11:30:10.516Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -910,15 +910,7 @@
         }
       },
       "guests": {},
-      "deposits": [
-        {
-          "id": "mr3e21kkqhs9",
-          "user": "Shahria",
-          "amount": 1000,
-          "date": "2026-07-02",
-          "note": "diye dilam🙂‍↔️"
-        }
-      ],
+      "deposits": [],
       "expenditures": [
         {
           "id": "mr24ga5yj8cc",
