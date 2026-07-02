@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-02T11:30:29.869Z",
+  "createdAt": "2026-07-02T13:36:01.138Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -956,6 +956,13 @@
           "date": "2026-07-02",
           "note": "জমা ৳1000.00 - গত মাস দিতে হবে ৳135.13 = নেট ৳864.87 (জুন 2026)",
           "isAdjustment": true
+        },
+        {
+          "id": "mr3js6twuqvz",
+          "user": "Shahria",
+          "amount": 200,
+          "date": "2026-07-02",
+          "note": ""
         }
       ],
       "expenditures": [
