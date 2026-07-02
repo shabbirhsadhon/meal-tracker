@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-02T13:36:06.666Z",
+  "createdAt": "2026-07-02T13:36:18.277Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -991,6 +991,13 @@
           "amount": 80,
           "date": "2026-07-01",
           "buyer": ""
+        },
+        {
+          "id": "mr3jsk20za5z",
+          "desc": "bazar",
+          "amount": 200,
+          "date": "2026-07-02",
+          "buyer": "Shahria"
         }
       ],
       "adjustedUsers": {
