@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-06T14:21:04.050Z",
+  "createdAt": "2026-07-06T14:55:07.004Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1002,6 +1002,9 @@
           "Alamin": 2,
           "Shopno": 2,
           "Ovi": 2
+        },
+        "6": {
+          "Nahian": 1.5
         }
       },
       "guests": {},
