@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-08T08:26:54.589Z",
+  "createdAt": "2026-07-08T12:57:29.797Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1179,6 +1179,13 @@
           "id": "mrbqnukut436",
           "desc": "চাল, ডিম, কুমড়া",
           "amount": 235,
+          "date": "2026-07-08",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mrc31rdzmuw3",
+          "desc": "স্বপ্ন বাজার",
+          "amount": 1550,
           "date": "2026-07-08",
           "buyer": "Sadhon"
         }
