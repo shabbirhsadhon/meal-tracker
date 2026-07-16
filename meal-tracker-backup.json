@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-16T17:00:07.537Z",
+  "createdAt": "2026-07-16T17:05:01.281Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -11,6 +11,21 @@
     "Ovi"
   ],
   "months": {
+    "mt3_tg_settings": {
+      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
+      "enabled": true,
+      "delay": 5,
+      "summaryHour": 0,
+      "summaryMin": 1
+    },
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "5631735177",
+      "6501020062",
+      "5567617813",
+      "7863401687",
+      "6029143590"
+    ],
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -262,13 +277,6 @@
       "adjustedUsers": {},
       "finalCash": 220
     },
-    "mt3_tg_settings": {
-      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
-      "enabled": true,
-      "delay": 5,
-      "summaryHour": 0,
-      "summaryMin": 1
-    },
     "mt3_tg_messages": [
       {
         "id": "mrlo3rcuovrz",
@@ -324,14 +332,6 @@
           }
         ]
       }
-    ],
-    "mt3_tg_subscribers": [
-      "6667029843",
-      "5631735177",
-      "6501020062",
-      "5567617813",
-      "7863401687",
-      "6029143590"
     ],
     "mt3_2026_5": {
       "users": [
@@ -896,21 +896,6 @@
           "Alamin": 2,
           "Shopno": 1,
           "Ovi": 1
-        },
-        "15": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shopno": 2,
-          "Ovi": 2
-        },
-        "16": {
-          "Sadhon": 1,
-          "Nahian": 2,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Ovi": 1
         }
       },
       "guests": {},
@@ -1144,27 +1129,6 @@
           "amount": 420,
           "date": "2026-07-15",
           "buyer": "Sadhon"
-        },
-        {
-          "id": "mrnr5m3yvgo9",
-          "desc": "Shourov Exit",
-          "amount": 150,
-          "date": "2026-07-13",
-          "buyer": ""
-        },
-        {
-          "id": "mrnr7qijrujr",
-          "desc": "Bazar",
-          "amount": 140,
-          "date": "2026-07-16",
-          "buyer": "Nahian"
-        },
-        {
-          "id": "mrnr8e7y9u0r",
-          "desc": "Bazar",
-          "amount": 100,
-          "date": "2026-07-16",
-          "buyer": "Shahria"
         }
       ],
       "adjustedUsers": {
