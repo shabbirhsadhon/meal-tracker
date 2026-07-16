@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-16T16:38:30.944Z",
+  "createdAt": "2026-07-16T16:57:48.301Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1144,6 +1144,13 @@
           "amount": 420,
           "date": "2026-07-15",
           "buyer": "Sadhon"
+        },
+        {
+          "id": "mrnr5m3yvgo9",
+          "desc": "Shourov Exit",
+          "amount": 150,
+          "date": "2026-07-13",
+          "buyer": ""
         }
       ],
       "adjustedUsers": {
