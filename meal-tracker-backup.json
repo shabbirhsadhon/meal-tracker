@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-17T11:17:58.063Z",
+  "createdAt": "2026-07-17T11:19:09.126Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -269,35 +269,7 @@
       "summaryHour": 0,
       "summaryMin": 1
     },
-    "mt3_tg_messages": [
-      {
-        "id": "m6zgng8n",
-        "text": "🌙 *দৈনিক সারসংক্ষেপ — 16 জুলাই 2026 (বৃহ)*\n\n🍽 *গতকালের মিল* (মোট: 0)\n  কোনো মিল এন্ট্রি নেই\n\n💰 *গতকালের ডিপোজিট*\n  কোনো ডিপোজিট নেই\n\n🛒 *গতকালের খরচ*\n  কোনো খরচ নেই\n\n📊 *জুলাই মাসের সার্বিক অবস্থা:*\nমোট খরচ: ৳5365.00\nমোট ডিপোজিট: ৳6753.72\nমোট মিল: 100\nমিল রেট: ৳53.65\n\n⚖️ *দেনা পাওনা:*\n✅ Sadhon: ৳671.29 পাবে\n✅ Nahian: ৳572.90 পাবে\n✅ Shahria: ৳45.52 পাবে\n❌ Alamin: ৳345.14 দিতে হবে\n✅ Shopno: ৳222.08 পাবে\n✅ Ovi: ৳222.08 পাবে",
-        "sentAt": "2026-07-17T01:01:54.210034+06:00",
-        "msgIds": [
-          {
-            "chatId": "6667029843",
-            "msgId": 501
-          },
-          {
-            "chatId": "6501020062",
-            "msgId": 502
-          },
-          {
-            "chatId": "5567617813",
-            "msgId": 503
-          },
-          {
-            "chatId": "7863401687",
-            "msgId": 504
-          },
-          {
-            "chatId": "6029143590",
-            "msgId": 505
-          }
-        ]
-      }
-    ],
+    "mt3_tg_messages": [],
     "mt3_tg_subscribers": [
       "6667029843",
       "5631735177",
@@ -869,6 +841,21 @@
           "Alamin": 2,
           "Shopno": 1,
           "Ovi": 1
+        },
+        "15": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shopno": 2,
+          "Ovi": 2
+        },
+        "16": {
+          "Sadhon": 1,
+          "Nahian": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Ovi": 1
         }
       },
       "guests": {},
@@ -1102,6 +1089,27 @@
           "amount": 420,
           "date": "2026-07-15",
           "buyer": "Sadhon"
+        },
+        {
+          "id": "mrnr5m3yvgo9",
+          "desc": "Shourov Exit",
+          "amount": 150,
+          "date": "2026-07-13",
+          "buyer": ""
+        },
+        {
+          "id": "mrnr7qijrujr",
+          "desc": "Bazar",
+          "amount": 140,
+          "date": "2026-07-16",
+          "buyer": "Nahian"
+        },
+        {
+          "id": "mrnr8e7y9u0r",
+          "desc": "Bazar",
+          "amount": 100,
+          "date": "2026-07-16",
+          "buyer": "Shahria"
         }
       ],
       "adjustedUsers": {
