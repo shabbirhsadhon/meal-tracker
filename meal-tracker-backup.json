@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-17T11:50:18.746Z",
+  "createdAt": "2026-07-17T11:52:16.133Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -11,21 +11,6 @@
     "Ovi"
   ],
   "months": {
-    "mt3_tg_settings": {
-      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
-      "enabled": true,
-      "delay": 5,
-      "summaryHour": 0,
-      "summaryMin": 1
-    },
-    "mt3_tg_subscribers": [
-      "6667029843",
-      "5631735177",
-      "6501020062",
-      "5567617813",
-      "7863401687",
-      "6029143590"
-    ],
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -277,7 +262,22 @@
       "adjustedUsers": {},
       "finalCash": 220
     },
+    "mt3_tg_settings": {
+      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
+      "enabled": true,
+      "delay": 5,
+      "summaryHour": 0,
+      "summaryMin": 1
+    },
     "mt3_tg_messages": [],
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "5631735177",
+      "6501020062",
+      "5567617813",
+      "7863401687",
+      "6029143590"
+    ],
     "mt3_2026_5": {
       "users": [
         "Sadhon",
@@ -1109,6 +1109,13 @@
           "desc": "Bazar",
           "amount": 100,
           "date": "2026-07-16",
+          "buyer": "Shahria"
+        },
+        {
+          "id": "mrovojl1ydhz",
+          "desc": "Bazar",
+          "amount": 420,
+          "date": "2026-07-17",
           "buyer": "Shahria"
         }
       ],
