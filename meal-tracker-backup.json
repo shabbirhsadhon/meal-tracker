@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-16T17:05:01.281Z",
+  "createdAt": "2026-07-17T04:34:12.085Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -11,21 +11,6 @@
     "Ovi"
   ],
   "months": {
-    "mt3_tg_settings": {
-      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
-      "enabled": true,
-      "delay": 5,
-      "summaryHour": 0,
-      "summaryMin": 1
-    },
-    "mt3_tg_subscribers": [
-      "6667029843",
-      "5631735177",
-      "6501020062",
-      "5567617813",
-      "7863401687",
-      "6029143590"
-    ],
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -277,6 +262,13 @@
       "adjustedUsers": {},
       "finalCash": 220
     },
+    "mt3_tg_settings": {
+      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
+      "enabled": true,
+      "delay": 5,
+      "summaryHour": 0,
+      "summaryMin": 1
+    },
     "mt3_tg_messages": [
       {
         "id": "m6zgng8n",
@@ -331,34 +323,15 @@
             "msgId": 450
           }
         ]
-      },
-      {
-        "id": "muyu2nuj",
-        "text": "🌙 *দৈনিক সারসংক্ষেপ — 14 জুলাই 2026 (মঙ্গ)*\n\n🍽 *গতকালের মিল* (মোট: 8)\n  👤 Sadhon: 1\n  👤 Nahian: 2\n  👤 Shahria: 1\n  👤 Alamin: 2\n  👤 Shopno: 1\n  👤 Ovi: 1\n\n💰 *গতকালের ডিপোজিট*\n  কোনো ডিপোজিট নেই\n\n🛒 *গতকালের খরচ*\n  🛒 বাজার: ৳180.00\n\n📊 *জুলাই মাসের সার্বিক অবস্থা:*\nমোট খরচ: ৳4945.00\nমোট ডিপোজিট: ৳6753.72\nমোট মিল: 100\nমিল রেট: ৳49.45\n\n⚖️ *দেনা পাওনা:*\n✅ Sadhon: ৳721.69 পাবে\n✅ Nahian: ৳644.30 পাবে\n✅ Shahria: ৳125.32 পাবে\n❌ Alamin: ৳248.54 দিতে হবে\n✅ Shopno: ৳282.97 পাবে\n✅ Ovi: ৳282.97 পাবে",
-        "sentAt": "2026-07-15T01:10:27.741401+06:00",
-        "msgIds": [
-          {
-            "chatId": "6667029843",
-            "msgId": 441
-          },
-          {
-            "chatId": "6501020062",
-            "msgId": 442
-          },
-          {
-            "chatId": "5567617813",
-            "msgId": 443
-          },
-          {
-            "chatId": "7863401687",
-            "msgId": 444
-          },
-          {
-            "chatId": "6029143590",
-            "msgId": 445
-          }
-        ]
       }
+    ],
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "5631735177",
+      "6501020062",
+      "5567617813",
+      "7863401687",
+      "6029143590"
     ],
     "mt3_2026_5": {
       "users": [
