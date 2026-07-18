@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-18T03:25:40.760Z",
+  "createdAt": "2026-07-18T08:46:54.335Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1065,6 +1065,13 @@
           "user": "Shahria",
           "amount": 100,
           "date": "2026-07-17",
+          "note": ""
+        },
+        {
+          "id": "mrq4i0m6sv5j",
+          "user": "Alamin",
+          "amount": 200,
+          "date": "2026-07-18",
           "note": ""
         }
       ],
