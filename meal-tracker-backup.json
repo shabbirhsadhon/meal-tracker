@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-22T14:58:45.104Z",
+  "createdAt": "2026-07-22T14:59:28.374Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -264,7 +264,7 @@
     },
     "mt3_tg_settings": {
       "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
-      "enabled": true,
+      "enabled": false,
       "delay": 5,
       "summaryHour": 0,
       "summaryMin": 1
@@ -1173,6 +1173,13 @@
           "user": "Alamin",
           "amount": 200,
           "date": "2026-07-20",
+          "note": ""
+        },
+        {
+          "id": "mrw7kjrrj6n6",
+          "user": "Sadhon",
+          "amount": 500,
+          "date": "2026-07-22",
           "note": ""
         }
       ],
