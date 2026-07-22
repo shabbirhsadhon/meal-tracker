@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-22T15:00:00.215Z",
+  "createdAt": "2026-07-22T15:00:05.912Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -264,12 +264,43 @@
     },
     "mt3_tg_settings": {
       "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
-      "enabled": false,
+      "enabled": true,
       "delay": 5,
       "summaryHour": 0,
       "summaryMin": 1
     },
     "mt3_tg_messages": [
+      {
+        "id": "mrw7lcqio19s",
+        "text": "✅ *মিলট্র্যাকার Telegram নোটিফায়ার চালু হয়েছে!*\n\nপরিবর্তন হলে 5 সেকেন্ডের মধ্যে জানাবে, এবং প্রতিদিন রাত ১২:০১ এ দৈনিক সারসংক্ষেপ পাঠাবে।",
+        "sentAt": "2026-07-22T15:00:04.411Z",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 648
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 649
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 650
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 651
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 652
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 653
+          }
+        ]
+      },
       {
         "id": "mrvo5iwacb0r",
         "text": "📝 *মিলট্র্যাকার আপডেট* — জুলাই 2026\n\n🛒 নতুন খরচ: Dim — ৳45.00 (Sadhon)\n\n📊 *চলতি অবস্থা:*\nমোট খরচ: ৳6890.00\nমোট ডিপোজিট: ৳8253.72\nমোট মিল: 171\nমিল রেট: ৳40.29",
