@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-25T12:06:26.786Z",
+  "createdAt": "2026-07-25T12:55:41.594Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1529,6 +1529,13 @@
           "amount": 365,
           "date": "2026-07-25",
           "buyer": "Nahian"
+        },
+        {
+          "id": "ms0dgx891ndu",
+          "desc": "মাছ, পলিথিন",
+          "amount": 180,
+          "date": "2026-07-25",
+          "buyer": "Sadhon"
         }
       ],
       "adjustedUsers": {
