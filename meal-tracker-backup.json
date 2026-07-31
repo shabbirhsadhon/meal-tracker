@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-31T16:31:09.124Z",
+  "createdAt": "2026-07-31T16:51:46.175Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1540,8 +1540,9 @@
         "Nahian": true,
         "Sadhon": true
       },
-      "finalCash": null,
-      "finMode": null
+      "finalCash": 310,
+      "finMode": "mismatch",
+      "finalMode": "mismatch"
     }
   }
 }
