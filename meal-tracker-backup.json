@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-07-31T19:16:17.269Z",
+  "createdAt": "2026-08-01T07:41:58.570Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -269,6 +269,32 @@
       "delay": 5,
       "summaryHour": 1,
       "summaryMin": 1
+    },
+    "mt3_2026_7": {
+      "users": [
+        "Sadhon",
+        "Nahian",
+        "Shahria",
+        "Alamin",
+        "Shopno",
+        "Ovi",
+        "Mujahid"
+      ],
+      "meals": {},
+      "guests": {},
+      "deposits": [],
+      "expenditures": [
+        {
+          "id": "msa2cfyiuhpq",
+          "desc": "ডিম, বাজার",
+          "amount": 110,
+          "date": "2026-08-01",
+          "buyer": "Nahian"
+        }
+      ],
+      "adjustedUsers": {},
+      "finalCash": null,
+      "finMode": null
     },
     "mt3_tg_messages": [
       {
