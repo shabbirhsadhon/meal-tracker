@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-08-02T12:41:44.626Z",
+  "createdAt": "2026-08-02T12:41:52.831Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -335,13 +335,6 @@
           "id": "msbbcbgog4d2",
           "desc": "মাছ,বেগুন",
           "amount": 220,
-          "date": "2026-08-02",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "msbshogzo2y5",
-          "desc": "স্বপ্ন বাজার (চাল,রসুন,পিঁয়াজ,আলু,তেল,লবণ,ডিম)",
-          "amount": 1455,
           "date": "2026-08-02",
           "buyer": "Sadhon"
         }
