@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-08-02T04:41:41.945Z",
+  "createdAt": "2026-08-02T08:37:33.157Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -306,6 +306,14 @@
           "date": "2026-08-01",
           "note": "জমা ৳1000.00 + গত মাস পাবে ৳147.30 = নেট ৳1147.30 (জুলাই 2026)",
           "isAdjustment": true
+        },
+        {
+          "id": "msbjrrly3sgy",
+          "user": "Shopno",
+          "amount": 1385.02,
+          "date": "2026-08-02",
+          "note": "জমা ৳1000.00 + গত মাস পাবে ৳385.02 = নেট ৳1385.02 (জুলাই 2026)",
+          "isAdjustment": true
         }
       ],
       "expenditures": [
@@ -333,7 +341,8 @@
       ],
       "adjustedUsers": {
         "Sadhon": true,
-        "Nahian": true
+        "Nahian": true,
+        "Shopno": true
       },
       "finalCash": null,
       "finMode": null
