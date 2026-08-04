@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-08-04T15:03:09.390Z",
+  "createdAt": "2026-08-04T15:04:23.087Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -395,6 +395,13 @@
           "id": "msee3v1s6jvn",
           "desc": "মুরগি,মশলা",
           "amount": 330,
+          "date": "2026-08-04",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "msesgxuar5bc",
+          "desc": "বাজার",
+          "amount": 120,
           "date": "2026-08-04",
           "buyer": "Sadhon"
         }
