@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-08-06T19:03:19.363Z",
+  "createdAt": "2026-08-06T19:36:49.114Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -12,6 +12,214 @@
     "Mujahid"
   ],
   "months": {
+    "mt3_tg_settings": {
+      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
+      "enabled": true,
+      "delay": 5,
+      "summaryHour": 1,
+      "summaryMin": 1
+    },
+    "mt3_2026_7": {
+      "users": [
+        "Sadhon",
+        "Nahian",
+        "Shahria",
+        "Alamin",
+        "Shopno",
+        "Ovi",
+        "Mujahid"
+      ],
+      "meals": {
+        "1": {
+          "Sadhon": 1,
+          "Nahian": 1,
+          "Shopno": 1,
+          "Ovi": 1,
+          "Mujahid": 1
+        },
+        "2": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shopno": 2,
+          "Ovi": 1,
+          "Mujahid": 2
+        },
+        "3": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shopno": 2,
+          "Ovi": 2,
+          "Mujahid": 2
+        },
+        "4": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shopno": 2,
+          "Mujahid": 2
+        },
+        "5": {
+          "Sadhon": 1,
+          "Nahian": 1,
+          "Shopno": 1,
+          "Mujahid": 1
+        },
+        "6": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Mujahid": 2
+        }
+      },
+      "guests": {
+        "3": {
+          "Sadhon": 0,
+          "Nahian": 0,
+          "Shahria": 0,
+          "Alamin": 0,
+          "Shopno": 1,
+          "Ovi": 0,
+          "Mujahid": 0
+        },
+        "6": {
+          "Sadhon": 1,
+          "Nahian": 0,
+          "Shahria": 0,
+          "Alamin": 0,
+          "Shopno": 0,
+          "Ovi": 0,
+          "Mujahid": 0
+        }
+      },
+      "deposits": [
+        {
+          "id": "msadebffxzxp",
+          "user": "Sadhon",
+          "amount": 1225.21,
+          "date": "2026-08-01",
+          "note": "জমা ৳1000.00 + গত মাস পাবে ৳225.21 = নেট ৳1225.21 (জুলাই 2026)",
+          "isAdjustment": true
+        },
+        {
+          "id": "msadegqb5052",
+          "user": "Nahian",
+          "amount": 1147.3,
+          "date": "2026-08-01",
+          "note": "জমা ৳1000.00 + গত মাস পাবে ৳147.30 = নেট ৳1147.30 (জুলাই 2026)",
+          "isAdjustment": true
+        },
+        {
+          "id": "msbjrrly3sgy",
+          "user": "Shopno",
+          "amount": 1385.02,
+          "date": "2026-08-02",
+          "note": "জমা ৳1000.00 + গত মাস পাবে ৳385.02 = নেট ৳1385.02 (জুলাই 2026)",
+          "isAdjustment": true
+        },
+        {
+          "id": "msbydl1dwaj3",
+          "user": "Ovi",
+          "amount": 930.77,
+          "date": "2026-08-02",
+          "note": "জমা ৳1000.00 - গত মাস দিতে হবে ৳69.23 = নেট ৳930.77 (জুলাই 2026)",
+          "isAdjustment": true
+        },
+        {
+          "id": "mseygqtb3fgd",
+          "user": "Mujahid",
+          "amount": 500,
+          "date": "2026-08-04",
+          "note": ""
+        }
+      ],
+      "expenditures": [
+        {
+          "id": "msa2cfyiuhpq",
+          "desc": "ডিম, বাজার",
+          "amount": 110,
+          "date": "2026-08-01",
+          "buyer": "Nahian"
+        },
+        {
+          "id": "msaf64eeaivk",
+          "desc": "ডিম",
+          "amount": 50,
+          "date": "2026-08-01",
+          "buyer": "Nahian"
+        },
+        {
+          "id": "msbbcbgog4d2",
+          "desc": "মাছ,বেগুন",
+          "amount": 220,
+          "date": "2026-08-02",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "msbsioci42v0",
+          "desc": "স্বপ্ন বাজার",
+          "amount": 1455,
+          "date": "2026-08-02",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "msbx0v33u4z2",
+          "desc": "সবজি",
+          "amount": 110,
+          "date": "2026-08-02",
+          "buyer": "Nahian"
+        },
+        {
+          "id": "msec3my6pzte",
+          "desc": "ডিম, মরিচ",
+          "amount": 70,
+          "date": "2026-08-04",
+          "buyer": "Nahian"
+        },
+        {
+          "id": "msee3v1s6jvn",
+          "desc": "মুরগি,মশলা",
+          "amount": 330,
+          "date": "2026-08-04",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "msesgxuar5bc",
+          "desc": "বাজার",
+          "amount": 120,
+          "date": "2026-08-04",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "msh68nn23jpw",
+          "desc": "ডিম",
+          "amount": 96,
+          "date": "2026-08-06",
+          "buyer": "Nahian"
+        },
+        {
+          "id": "mshl8okpldfo",
+          "desc": "Mach",
+          "amount": 320,
+          "date": "2026-08-06",
+          "buyer": "Mujahid"
+        }
+      ],
+      "adjustedUsers": {
+        "Sadhon": true,
+        "Nahian": true,
+        "Shopno": true,
+        "Ovi": true
+      },
+      "finalCash": null,
+      "finMode": null
+    },
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "5631735177",
+      "6501020062",
+      "5567617813",
+      "7863401687",
+      "6029143590",
+      "8594778816"
+    ],
     "mt3_2026_4": {
       "users": [
         "Sadhon",
@@ -263,205 +471,6 @@
       "adjustedUsers": {},
       "finalCash": 220
     },
-    "mt3_tg_settings": {
-      "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
-      "enabled": true,
-      "delay": 5,
-      "summaryHour": 1,
-      "summaryMin": 1
-    },
-    "mt3_2026_7": {
-      "users": [
-        "Sadhon",
-        "Nahian",
-        "Shahria",
-        "Alamin",
-        "Shopno",
-        "Ovi",
-        "Mujahid"
-      ],
-      "meals": {
-        "1": {
-          "Sadhon": 1,
-          "Nahian": 1,
-          "Shopno": 1,
-          "Ovi": 1,
-          "Mujahid": 1
-        },
-        "2": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shopno": 2,
-          "Ovi": 1,
-          "Mujahid": 2
-        },
-        "3": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shopno": 2,
-          "Ovi": 2,
-          "Mujahid": 2
-        },
-        "4": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shopno": 2,
-          "Mujahid": 2
-        },
-        "5": {
-          "Sadhon": 1,
-          "Nahian": 1,
-          "Shopno": 1,
-          "Mujahid": 1
-        },
-        "6": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Mujahid": 2
-        }
-      },
-      "guests": {
-        "3": {
-          "Sadhon": 0,
-          "Nahian": 0,
-          "Shahria": 0,
-          "Alamin": 0,
-          "Shopno": 1,
-          "Ovi": 0,
-          "Mujahid": 0
-        },
-        "6": {
-          "Sadhon": 1,
-          "Nahian": 0,
-          "Shahria": 0,
-          "Alamin": 0,
-          "Shopno": 0,
-          "Ovi": 0,
-          "Mujahid": 0
-        }
-      },
-      "deposits": [
-        {
-          "id": "msadebffxzxp",
-          "user": "Sadhon",
-          "amount": 1225.21,
-          "date": "2026-08-01",
-          "note": "জমা ৳1000.00 + গত মাস পাবে ৳225.21 = নেট ৳1225.21 (জুলাই 2026)",
-          "isAdjustment": true
-        },
-        {
-          "id": "msadegqb5052",
-          "user": "Nahian",
-          "amount": 1147.3,
-          "date": "2026-08-01",
-          "note": "জমা ৳1000.00 + গত মাস পাবে ৳147.30 = নেট ৳1147.30 (জুলাই 2026)",
-          "isAdjustment": true
-        },
-        {
-          "id": "msbjrrly3sgy",
-          "user": "Shopno",
-          "amount": 1385.02,
-          "date": "2026-08-02",
-          "note": "জমা ৳1000.00 + গত মাস পাবে ৳385.02 = নেট ৳1385.02 (জুলাই 2026)",
-          "isAdjustment": true
-        },
-        {
-          "id": "msbydl1dwaj3",
-          "user": "Ovi",
-          "amount": 930.77,
-          "date": "2026-08-02",
-          "note": "জমা ৳1000.00 - গত মাস দিতে হবে ৳69.23 = নেট ৳930.77 (জুলাই 2026)",
-          "isAdjustment": true
-        },
-        {
-          "id": "mseygqtb3fgd",
-          "user": "Mujahid",
-          "amount": 500,
-          "date": "2026-08-04",
-          "note": ""
-        }
-      ],
-      "expenditures": [
-        {
-          "id": "msa2cfyiuhpq",
-          "desc": "ডিম, বাজার",
-          "amount": 110,
-          "date": "2026-08-01",
-          "buyer": "Nahian"
-        },
-        {
-          "id": "msaf64eeaivk",
-          "desc": "ডিম",
-          "amount": 50,
-          "date": "2026-08-01",
-          "buyer": "Nahian"
-        },
-        {
-          "id": "msbbcbgog4d2",
-          "desc": "মাছ,বেগুন",
-          "amount": 220,
-          "date": "2026-08-02",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "msbsioci42v0",
-          "desc": "স্বপ্ন বাজার",
-          "amount": 1455,
-          "date": "2026-08-02",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "msbx0v33u4z2",
-          "desc": "সবজি",
-          "amount": 110,
-          "date": "2026-08-02",
-          "buyer": "Nahian"
-        },
-        {
-          "id": "msec3my6pzte",
-          "desc": "ডিম, মরিচ",
-          "amount": 70,
-          "date": "2026-08-04",
-          "buyer": "Nahian"
-        },
-        {
-          "id": "msee3v1s6jvn",
-          "desc": "মুরগি,মশলা",
-          "amount": 330,
-          "date": "2026-08-04",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "msesgxuar5bc",
-          "desc": "বাজার",
-          "amount": 120,
-          "date": "2026-08-04",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "msh68nn23jpw",
-          "desc": "ডিম",
-          "amount": 96,
-          "date": "2026-08-06",
-          "buyer": "Nahian"
-        },
-        {
-          "id": "mshl8okpldfo",
-          "desc": "Mach",
-          "amount": 320,
-          "date": "2026-08-06",
-          "buyer": "Mujahid"
-        }
-      ],
-      "adjustedUsers": {
-        "Sadhon": true,
-        "Nahian": true,
-        "Shopno": true,
-        "Ovi": true
-      },
-      "finalCash": null,
-      "finMode": null
-    },
     "mt3_tg_messages": [
       {
         "id": "mshl8t2cod3i",
@@ -618,15 +627,6 @@
           }
         ]
       }
-    ],
-    "mt3_tg_subscribers": [
-      "6667029843",
-      "5631735177",
-      "6501020062",
-      "5567617813",
-      "7863401687",
-      "6029143590",
-      "8594778816"
     ],
     "mt3_2026_5": {
       "users": [
