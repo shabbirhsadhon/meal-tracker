@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-08-08T07:13:17.496Z",
+  "createdAt": "2026-08-08T13:14:08.445Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -462,6 +462,13 @@
           "id": "msk1eb56qrlh",
           "desc": "বাজার",
           "amount": 50,
+          "date": "2026-08-08",
+          "buyer": "Nahian"
+        },
+        {
+          "id": "mskeakm598wl",
+          "desc": "সবজি",
+          "amount": 160,
           "date": "2026-08-08",
           "buyer": "Nahian"
         }
