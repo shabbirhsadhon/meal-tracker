@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-08-26T10:47:07.829Z",
+  "createdAt": "2026-08-26T12:29:30.936Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -869,6 +869,13 @@
           "amount": 470,
           "date": "2026-08-26",
           "buyer": "Shahria"
+        },
+        {
+          "id": "mta2mimua0em",
+          "desc": "Korola, Dim, Morich",
+          "amount": 120,
+          "date": "2026-08-26",
+          "buyer": "Ovi"
         }
       ],
       "adjustedUsers": {
