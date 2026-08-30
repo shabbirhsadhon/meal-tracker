@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-08-30T13:16:48.618Z",
+  "createdAt": "2026-08-30T14:06:56.796Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -683,6 +683,13 @@
           "amount": 500,
           "date": "2026-08-28",
           "note": ""
+        },
+        {
+          "id": "mtfvv7zxbpsb",
+          "user": "Sadhon",
+          "amount": 70,
+          "date": "2026-08-30",
+          "note": "মিল থেকে পাইতাম ৭০"
         }
       ],
       "expenditures": [
