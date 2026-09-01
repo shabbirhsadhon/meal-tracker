@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-01T15:02:26.700Z",
+  "createdAt": "2026-09-01T15:06:43.365Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1771,7 +1771,17 @@
         "Ovi",
         "Mujahid"
       ],
-      "meals": {},
+      "meals": {
+        "1": {
+          "Sadhon": 0.5,
+          "Nahian": 0.5,
+          "Shahria": 0.5,
+          "Alamin": 0.5,
+          "Shopno": 0.5,
+          "Ovi": 0.5,
+          "Mujahid": 0.5
+        }
+      },
       "guests": {},
       "deposits": [
         {
