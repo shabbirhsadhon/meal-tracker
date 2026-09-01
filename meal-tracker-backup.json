@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-01T14:12:56.495Z",
+  "createdAt": "2026-09-01T14:13:13.056Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1721,6 +1721,35 @@
         "Nahian": true
       },
       "finalCash": 155
+    },
+    "mt3_2026_8": {
+      "users": [
+        "Sadhon",
+        "Nahian",
+        "Shahria",
+        "Alamin",
+        "Shopno",
+        "Ovi",
+        "Mujahid"
+      ],
+      "meals": {},
+      "guests": {},
+      "deposits": [
+        {
+          "id": "mtiqyznne92l",
+          "user": "Sadhon",
+          "amount": 1689.8600000000001,
+          "date": "2026-09-01",
+          "note": "জমা ৳1500.00 + গত মাস পাবে ৳189.86 = নেট ৳1689.86 (আগস্ট 2026)",
+          "isAdjustment": true
+        }
+      ],
+      "expenditures": [],
+      "adjustedUsers": {
+        "Sadhon": true
+      },
+      "finalCash": null,
+      "finMode": null
     },
     "mt3_2026_6": {
       "users": [
