@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-02T15:23:48.377Z",
+  "createdAt": "2026-09-02T15:25:18.002Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1868,6 +1868,13 @@
           "id": "mtjhnzojut95",
           "desc": "হলুদ গুঁড়া",
           "amount": 70,
+          "date": "2026-09-02",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mtk8zjgx6dkt",
+          "desc": "স্বপ্ন বাজার( চাল + বাজার )",
+          "amount": 2965,
           "date": "2026-09-02",
           "buyer": "Sadhon"
         }
