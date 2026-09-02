@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-02T02:40:01.863Z",
+  "createdAt": "2026-09-02T02:40:29.505Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1855,6 +1855,13 @@
           "amount": 50,
           "date": "2026-09-01",
           "buyer": "Alamin"
+        },
+        {
+          "id": "mtjhnzojut95",
+          "desc": "হলুদ গুঁড়া",
+          "amount": 70,
+          "date": "2026-09-02",
+          "buyer": "Sadhon"
         }
       ],
       "adjustedUsers": {
