@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-06T17:34:46.113Z",
+  "createdAt": "2026-09-06T18:32:43.666Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -12,6 +12,257 @@
     "Mujahid"
   ],
   "months": {
+    "mt3_2026_4": {
+      "users": [
+        "Sadhon",
+        "Nahian",
+        "Shahria",
+        "Alamin",
+        "Shourov"
+      ],
+      "meals": {
+        "3": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shahria": 1,
+          "Alamin": 2
+        },
+        "4": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shahria": 1,
+          "Alamin": 1
+        },
+        "5": {
+          "Sadhon": 1,
+          "Nahian": 1,
+          "Alamin": 1
+        },
+        "6": {
+          "Sadhon": 1,
+          "Nahian": 2,
+          "Shahria": 2,
+          "Alamin": 2
+        },
+        "7": {
+          "Nahian": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "8": {
+          "Nahian": 1,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "9": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "10": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "11": {
+          "Sadhon": 2,
+          "Nahian": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 1
+        },
+        "12": {
+          "Sadhon": 1,
+          "Nahian": 1,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "13": {
+          "Sadhon": 1,
+          "Nahian": 1.5,
+          "Shahria": 1.5,
+          "Alamin": 1.5,
+          "Shourov": 1.5
+        },
+        "14": {
+          "Sadhon": 2,
+          "Nahian": 1,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "15": {
+          "Sadhon": 1.5,
+          "Shahria": 1.5,
+          "Alamin": 1.5,
+          "Shourov": 2
+        },
+        "16": {
+          "Sadhon": 1,
+          "Shahria": 1,
+          "Alamin": 1,
+          "Shourov": 1
+        },
+        "17": {
+          "Sadhon": 2,
+          "Shahria": 1,
+          "Alamin": 2,
+          "Shourov": 1
+        },
+        "18": {
+          "Sadhon": 2,
+          "Shahria": 1,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "19": {
+          "Sadhon": 2,
+          "Shahria": 1,
+          "Alamin": 2,
+          "Shourov": 2
+        },
+        "20": {
+          "Sadhon": 2,
+          "Shahria": 2,
+          "Alamin": 2,
+          "Shourov": 2
+        }
+      },
+      "guests": {
+        "14": {
+          "Sadhon": 0,
+          "Nahian": 0,
+          "Shahria": 1,
+          "Alamin": 0,
+          "Shourov": 0
+        }
+      },
+      "deposits": [
+        {
+          "id": "mpcno2rqd1rn",
+          "user": "Sadhon",
+          "amount": 940,
+          "date": "2026-05-10",
+          "note": ""
+        },
+        {
+          "id": "mpcnokefk4ek",
+          "user": "Nahian",
+          "amount": 1250,
+          "date": "2026-05-10",
+          "note": ""
+        },
+        {
+          "id": "mpcnor1p9vnv",
+          "user": "Shahria",
+          "amount": 908,
+          "date": "2026-05-10",
+          "note": ""
+        },
+        {
+          "id": "mpcnozfkb7m9",
+          "user": "Alamin",
+          "amount": 700,
+          "date": "2026-05-10",
+          "note": ""
+        },
+        {
+          "id": "mpcnp67jqs1n",
+          "user": "Shourov",
+          "amount": 691,
+          "date": "2026-05-10",
+          "note": ""
+        },
+        {
+          "id": "mpdrey8tgr39",
+          "user": "Sadhon",
+          "amount": 100,
+          "date": "2026-05-20",
+          "note": ""
+        },
+        {
+          "id": "mpdxeolei0nx",
+          "user": "Shourov",
+          "amount": 300,
+          "date": "2026-05-20",
+          "note": ""
+        }
+      ],
+      "expenditures": [
+        {
+          "id": "mpcnq1ar53n5",
+          "desc": "Heavy Bazar",
+          "amount": 4700,
+          "date": "2026-05-10",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mpcnqjqzm2dl",
+          "desc": "Bajar",
+          "amount": 125,
+          "date": "2026-05-17",
+          "buyer": "Alamin"
+        },
+        {
+          "id": "mpcnr4zc2j94",
+          "desc": "পটল",
+          "amount": 40,
+          "date": "2026-05-18",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mpcnrhexw51a",
+          "desc": "বাজার",
+          "amount": 20,
+          "date": "2026-05-18",
+          "buyer": ""
+        },
+        {
+          "id": "mpcnrydpjist",
+          "desc": "বাজার",
+          "amount": 120,
+          "date": "2026-05-19",
+          "buyer": "Shahria"
+        },
+        {
+          "id": "mpcpj7i724bq",
+          "desc": "কচুর ছড়া",
+          "amount": 60,
+          "date": "2026-05-19",
+          "buyer": "Shahria"
+        },
+        {
+          "id": "mpdioycrjsj1",
+          "desc": "ডিম",
+          "amount": 50,
+          "date": "2026-05-20",
+          "buyer": "Alamin"
+        },
+        {
+          "id": "mpdxu7y4841n",
+          "desc": "মাছ,বেগুন",
+          "amount": 185,
+          "date": "2026-05-20",
+          "buyer": "Sadhon"
+        },
+        {
+          "id": "mpf1hdh1v51k",
+          "desc": "পুঁইশাক",
+          "amount": 40,
+          "date": "2026-05-21",
+          "buyer": "Sadhon"
+        }
+      ],
+      "adjustedUsers": {},
+      "finalCash": 220
+    },
     "mt3_tg_settings": {
       "token": "8693248383:AAFbcmFhC5ARm-HNGUiYb1aDEsQ12cuGs9M",
       "enabled": true,
@@ -760,307 +1011,7 @@
       "finMode": "mismatch",
       "finalMode": "mismatch"
     },
-    "mt3_tg_subscribers": [
-      "6667029843",
-      "6501020062",
-      "5567617813",
-      "7863401687",
-      "6029143590",
-      "8594778816",
-      "8815336624",
-      "7845211938"
-    ],
-    "mt3_2026_4": {
-      "users": [
-        "Sadhon",
-        "Nahian",
-        "Shahria",
-        "Alamin",
-        "Shourov"
-      ],
-      "meals": {
-        "3": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shahria": 1,
-          "Alamin": 2
-        },
-        "4": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shahria": 1,
-          "Alamin": 1
-        },
-        "5": {
-          "Sadhon": 1,
-          "Nahian": 1,
-          "Alamin": 1
-        },
-        "6": {
-          "Sadhon": 1,
-          "Nahian": 2,
-          "Shahria": 2,
-          "Alamin": 2
-        },
-        "7": {
-          "Nahian": 2,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "8": {
-          "Nahian": 1,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "9": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "10": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "11": {
-          "Sadhon": 2,
-          "Nahian": 2,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 1
-        },
-        "12": {
-          "Sadhon": 1,
-          "Nahian": 1,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "13": {
-          "Sadhon": 1,
-          "Nahian": 1.5,
-          "Shahria": 1.5,
-          "Alamin": 1.5,
-          "Shourov": 1.5
-        },
-        "14": {
-          "Sadhon": 2,
-          "Nahian": 1,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "15": {
-          "Sadhon": 1.5,
-          "Shahria": 1.5,
-          "Alamin": 1.5,
-          "Shourov": 2
-        },
-        "16": {
-          "Sadhon": 1,
-          "Shahria": 1,
-          "Alamin": 1,
-          "Shourov": 1
-        },
-        "17": {
-          "Sadhon": 2,
-          "Shahria": 1,
-          "Alamin": 2,
-          "Shourov": 1
-        },
-        "18": {
-          "Sadhon": 2,
-          "Shahria": 1,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "19": {
-          "Sadhon": 2,
-          "Shahria": 1,
-          "Alamin": 2,
-          "Shourov": 2
-        },
-        "20": {
-          "Sadhon": 2,
-          "Shahria": 2,
-          "Alamin": 2,
-          "Shourov": 2
-        }
-      },
-      "guests": {
-        "14": {
-          "Sadhon": 0,
-          "Nahian": 0,
-          "Shahria": 1,
-          "Alamin": 0,
-          "Shourov": 0
-        }
-      },
-      "deposits": [
-        {
-          "id": "mpcno2rqd1rn",
-          "user": "Sadhon",
-          "amount": 940,
-          "date": "2026-05-10",
-          "note": ""
-        },
-        {
-          "id": "mpcnokefk4ek",
-          "user": "Nahian",
-          "amount": 1250,
-          "date": "2026-05-10",
-          "note": ""
-        },
-        {
-          "id": "mpcnor1p9vnv",
-          "user": "Shahria",
-          "amount": 908,
-          "date": "2026-05-10",
-          "note": ""
-        },
-        {
-          "id": "mpcnozfkb7m9",
-          "user": "Alamin",
-          "amount": 700,
-          "date": "2026-05-10",
-          "note": ""
-        },
-        {
-          "id": "mpcnp67jqs1n",
-          "user": "Shourov",
-          "amount": 691,
-          "date": "2026-05-10",
-          "note": ""
-        },
-        {
-          "id": "mpdrey8tgr39",
-          "user": "Sadhon",
-          "amount": 100,
-          "date": "2026-05-20",
-          "note": ""
-        },
-        {
-          "id": "mpdxeolei0nx",
-          "user": "Shourov",
-          "amount": 300,
-          "date": "2026-05-20",
-          "note": ""
-        }
-      ],
-      "expenditures": [
-        {
-          "id": "mpcnq1ar53n5",
-          "desc": "Heavy Bazar",
-          "amount": 4700,
-          "date": "2026-05-10",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "mpcnqjqzm2dl",
-          "desc": "Bajar",
-          "amount": 125,
-          "date": "2026-05-17",
-          "buyer": "Alamin"
-        },
-        {
-          "id": "mpcnr4zc2j94",
-          "desc": "পটল",
-          "amount": 40,
-          "date": "2026-05-18",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "mpcnrhexw51a",
-          "desc": "বাজার",
-          "amount": 20,
-          "date": "2026-05-18",
-          "buyer": ""
-        },
-        {
-          "id": "mpcnrydpjist",
-          "desc": "বাজার",
-          "amount": 120,
-          "date": "2026-05-19",
-          "buyer": "Shahria"
-        },
-        {
-          "id": "mpcpj7i724bq",
-          "desc": "কচুর ছড়া",
-          "amount": 60,
-          "date": "2026-05-19",
-          "buyer": "Shahria"
-        },
-        {
-          "id": "mpdioycrjsj1",
-          "desc": "ডিম",
-          "amount": 50,
-          "date": "2026-05-20",
-          "buyer": "Alamin"
-        },
-        {
-          "id": "mpdxu7y4841n",
-          "desc": "মাছ,বেগুন",
-          "amount": 185,
-          "date": "2026-05-20",
-          "buyer": "Sadhon"
-        },
-        {
-          "id": "mpf1hdh1v51k",
-          "desc": "পুঁইশাক",
-          "amount": 40,
-          "date": "2026-05-21",
-          "buyer": "Sadhon"
-        }
-      ],
-      "adjustedUsers": {},
-      "finalCash": 220
-    },
     "mt3_tg_messages": [
-      {
-        "id": "b3vv0k21",
-        "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 6 সেপ্টেম্বর 2026 (রবি)</b>\n\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 10)\n  👤 Sadhon: 1\n  👤 Nahian: 2\n  👤 Shahria: 2\n  👤 Shopno: 2\n  👤 Ovi: 1\n  👤 Mujahid: 2</blockquote>\n\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  কোনো ডিপোজিট নেই</blockquote>\n\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 ডিম: ৳100.00</blockquote>\n\n<blockquote>📊 <b>সেপ্টেম্বর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳4003.00\nমোট ডিপোজিট: ৳5456.50\nমোট মিল: 53.5\nমিল রেট: ৳74.82</blockquote>\n\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n✅ Sadhon: ৳1053.87 পাবে\n❌ Nahian: ৳710.81 দিতে হবে\n✅ Shahria: ৳1548.58 পাবে\n❌ Alamin: ৳411.52 দিতে হবে\n✅ Shopno: ৳669.35 পাবে\n✅ Ovi: ৳14.85 পাবে\n❌ Mujahid: ৳710.81 দিতে হবে</blockquote>",
-        "sentAt": "2026-09-07T00:27:26.497924+06:00",
-        "msgIds": [
-          {
-            "chatId": "6667029843",
-            "msgId": 1991
-          },
-          {
-            "chatId": "6501020062",
-            "msgId": 1992
-          },
-          {
-            "chatId": "5567617813",
-            "msgId": 1993
-          },
-          {
-            "chatId": "7863401687",
-            "msgId": 1994
-          },
-          {
-            "chatId": "6029143590",
-            "msgId": 1995
-          },
-          {
-            "chatId": "8594778816",
-            "msgId": 1996
-          },
-          {
-            "chatId": "8815336624",
-            "msgId": 1997
-          },
-          {
-            "chatId": "7845211938",
-            "msgId": 1998
-          }
-        ]
-      },
       {
         "id": "mtq2fle4d2mk",
         "text": "📝 *মিলট্র্যাকার আপডেট* — সেপ্টেম্বর 2026\n\n🛒 নতুন খরচ: ডিম — ৳100.00 (Sadhon)\n\n📊 *চলতি অবস্থা:*\nমোট খরচ: ৳4003.00\nমোট ডিপোজিট: ৳5456.50\nমোট মিল: 53.5\nমিল রেট: ৳74.82",
@@ -1256,6 +1207,16 @@
           }
         ]
       }
+    ],
+    "mt3_tg_subscribers": [
+      "6667029843",
+      "6501020062",
+      "5567617813",
+      "7863401687",
+      "6029143590",
+      "8594778816",
+      "8815336624",
+      "7845211938"
     ],
     "mt3_2026_5": {
       "users": [
