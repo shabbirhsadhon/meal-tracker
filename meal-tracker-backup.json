@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-07T16:50:22.491Z",
+  "createdAt": "2026-09-07T17:14:40.358Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1922,6 +1922,13 @@
           "amount": 70,
           "date": "2026-09-07",
           "buyer": "Sadhon"
+        },
+        {
+          "id": "mtri3gcmw6y1",
+          "desc": "মুরগি, পেঁপে, টমেটো",
+          "amount": 410,
+          "date": "2026-09-07",
+          "buyer": "Mujahid"
         }
       ],
       "adjustedUsers": {
