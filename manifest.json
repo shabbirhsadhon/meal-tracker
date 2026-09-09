@@ -1,0 +1,12 @@
+{
+  "name": "মিলট্র্যাকার",
+  "short_name": "মিলট্র্যাকার",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#05080f",
+  "theme_color": "#f5a623",
+  "icons": [
+    { "src": "assets/app-icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
