@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-09T17:52:09.794Z",
+  "createdAt": "2026-09-10T04:58:51.404Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1399,45 +1399,6 @@
           {
             "chatId": "6667029843",
             "msgId": 2070
-          }
-        ]
-      },
-      {
-        "id": "ewlj34qr",
-        "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 7 সেপ্টেম্বর 2026 (সোম)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 10.5)\n  👤 Sadhon: 2\n  👤 Nahian: 1\n  👤 Shahria: 2\n  👤 Shopno: 2\n  👤 Ovi: 2\n  👤 Mujahid: 1.5</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  কোনো ডিপোজিট নেই</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 বাজার: ৳70.00\n  🛒 মুরগি, পেঁপে, টমেটো: ৳410.00</blockquote>\n<blockquote>📊 <b>সেপ্টেম্বর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳4483.00\nমোট ডিপোজিট: ৳5456.50\nমোট মিল: 64\nমিল রেট: ৳70.05</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n✅ Sadhon: ৳954.37 পাবে\n❌ Nahian: ৳735.49 দিতে হবে\n✅ Shahria: ৳1429.98 পাবে\n❌ Alamin: ৳385.26 দিতে হবে\n✅ Shopno: ৳569.85 পাবে\n❌ Ovi: ৳89.43 দিতে হবে\n❌ Mujahid: ৳770.52 দিতে হবে</blockquote>",
-        "sentAt": "2026-09-08T03:00:55.190418+06:00",
-        "msgIds": [
-          {
-            "chatId": "6667029843",
-            "msgId": 2055
-          },
-          {
-            "chatId": "6501020062",
-            "msgId": 2056
-          },
-          {
-            "chatId": "5567617813",
-            "msgId": 2057
-          },
-          {
-            "chatId": "7863401687",
-            "msgId": 2058
-          },
-          {
-            "chatId": "6029143590",
-            "msgId": 2059
-          },
-          {
-            "chatId": "8594778816",
-            "msgId": 2060
-          },
-          {
-            "chatId": "8815336624",
-            "msgId": 2061
-          },
-          {
-            "chatId": "7845211938",
-            "msgId": 2062
           }
         ]
       }
