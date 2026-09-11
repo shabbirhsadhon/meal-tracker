@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-11T14:41:56.405Z",
+  "createdAt": "2026-09-11T15:34:00.911Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -2115,6 +2115,13 @@
           "amount": 100,
           "date": "2026-09-10",
           "buyer": ""
+        },
+        {
+          "id": "mtx49ey5qsxb",
+          "desc": "কাতলা মাছ, লতি",
+          "amount": 400,
+          "date": "2026-09-11",
+          "buyer": "Nahian"
         }
       ],
       "adjustedUsers": {
