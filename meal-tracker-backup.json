@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-11T15:34:08.324Z",
+  "createdAt": "2026-09-11T15:44:02.671Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -2161,6 +2161,13 @@
           "amount": 400,
           "date": "2026-09-11",
           "buyer": "Nahian"
+        },
+        {
+          "id": "mtx4mb9nzms7",
+          "desc": "Balance adjust (2 Bati, Mora)",
+          "amount": 12,
+          "date": "2026-09-11",
+          "buyer": "Sadhon"
         }
       ],
       "adjustedUsers": {
