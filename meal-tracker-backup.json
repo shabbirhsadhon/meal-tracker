@@ -1013,6 +1013,45 @@
     },
     "mt3_tg_messages": [
       {
+        "id": "1p1rnpip",
+        "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 11 সেপ্টেম্বর 2026 (শুক্র)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 7)\n  👤 Sadhon: 1\n  👤 Nahian: 1\n  👤 Shahria: 1\n  👤 Alamin: 1\n  👤 Shopno: 1\n  👤 Ovi: 1\n  👤 Mujahid: 1</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  কোনো ডিপোজিট নেই</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 কাতলা মাছ, লতি: ৳400.00\n  🛒 Balance adjust (2 Bati, Mora): ৳12.00</blockquote>\n<blockquote>📊 <b>সেপ্টেম্বর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳6015.00\nমোট ডিপোজিট: ৳8100.00\nমোট মিল: 105\nমিল রেট: ৳57.29</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n✅ Sadhon: ৳744.65 পাবে\n✅ Nahian: ৳162.33 পাবে\n✅ Shahria: ৳1169.21 পাবে\n❌ Alamin: ৳81.71 দিতে হবে\n✅ Shopno: ৳302.84 পাবে\n❌ Ovi: ৳197.34 দিতে হবে\n❌ Mujahid: ৳14.98 দিতে হবে</blockquote>",
+        "sentAt": "2026-09-12T02:20:14.654458+06:00",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 2266
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 2267
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 2268
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 2269
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 2270
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 2271
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 2272
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 2273
+          }
+        ]
+      },
+      {
         "id": "mtx4mgfmex6c",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — সেপ্টেম্বর 2026\n<blockquote>🛒 নতুন খরচ: Balance adjust (2 Bati, Mora) — ৳12.00 (Sadhon)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳6015.00\nমোট ডিপোজিট: ৳8100.00\nমোট মিল: 105\nমিল রেট: ৳57.29</blockquote>",
         "sentAt": "2026-09-11T15:44:07.858Z",
