@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-12T11:55:13.122Z",
+  "createdAt": "2026-09-12T11:55:20.282Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1012,6 +1012,45 @@
       "finalMode": "mismatch"
     },
     "mt3_tg_messages": [
+      {
+        "id": "mtybw1o7ef0b",
+        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — সেপ্টেম্বর 2026\n<blockquote>🛒 নতুন খরচ: বাজার — ৳280.00 (Nahian)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳6295.00\nমোট ডিপোজিট: ৳8100.00\nমোট মিল: 105\nমিল রেট: ৳59.95</blockquote>",
+        "sentAt": "2026-09-12T11:55:18.775Z",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 2274
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 2275
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 2276
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 2277
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 2278
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 2279
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 2280
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 2281
+          }
+        ]
+      },
       {
         "id": "1p1rnpip",
         "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 11 সেপ্টেম্বর 2026 (শুক্র)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 7)\n  👤 Sadhon: 1\n  👤 Nahian: 1\n  👤 Shahria: 1\n  👤 Alamin: 1\n  👤 Shopno: 1\n  👤 Ovi: 1\n  👤 Mujahid: 1</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  কোনো ডিপোজিট নেই</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 কাতলা মাছ, লতি: ৳400.00\n  🛒 Balance adjust (2 Bati, Mora): ৳12.00</blockquote>\n<blockquote>📊 <b>সেপ্টেম্বর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳6015.00\nমোট ডিপোজিট: ৳8100.00\nমোট মিল: 105\nমিল রেট: ৳57.29</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n✅ Sadhon: ৳744.65 পাবে\n✅ Nahian: ৳162.33 পাবে\n✅ Shahria: ৳1169.21 পাবে\n❌ Alamin: ৳81.71 দিতে হবে\n✅ Shopno: ৳302.84 পাবে\n❌ Ovi: ৳197.34 দিতে হবে\n❌ Mujahid: ৳14.98 দিতে হবে</blockquote>",
