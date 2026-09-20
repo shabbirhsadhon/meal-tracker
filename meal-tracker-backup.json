@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-09-20T12:49:00.659Z",
+  "createdAt": "2026-09-20T12:49:08.001Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1012,6 +1012,45 @@
       "finalMode": "mismatch"
     },
     "mt3_tg_messages": [
+      {
+        "id": "mu9tc1ivzodj",
+        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — সেপ্টেম্বর 2026\n<blockquote>🍽 মিল পরিবর্তন: 20 তারিখ Sadhon: মিল 0→2 (মোট: 2)\n🍽 মিল পরিবর্তন: 20 তারিখ Nahian: মিল 0→2 (মোট: 2)\n🍽 মিল পরিবর্তন: 20 তারিখ Shahria: মিল 0→1 (মোট: 1)\n🍽 মিল পরিবর্তন: 20 তারিখ Alamin: মিল 0→1 (মোট: 1)\n🍽 মিল পরিবর্তন: 20 তারিখ Shopno: মিল 0→2 (মোট: 2)\n🍽 মিল পরিবর্তন: 20 তারিখ Ovi: মিল 0→2 (মোট: 2)\n🍽 মিল পরিবর্তন: 20 তারিখ Mujahid: মিল 0→1 (মোট: 1)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳8950.00\nমোট ডিপোজিট: ৳10600.00\nমোট মিল: 210.5\nমিল রেট: ৳42.52</blockquote>",
+        "sentAt": "2026-09-20T12:49:06.487Z",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 2562
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 2563
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 2564
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 2565
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 2566
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 2568
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 2567
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 2569
+          }
+        ]
+      },
       {
         "id": "uvgfxakw",
         "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 19 সেপ্টেম্বর 2026 (শনি)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 11)\n  👤 Sadhon: 1\n  👤 Nahian: 2\n  👤 Shahria: 1\n  👤 Alamin: 1\n  👤 Shopno: 2\n  👤 Ovi: 2\n  👤 Mujahid: 2</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  💰 Nahian: ৳500.00\n  💰 Shopno: ৳500.00</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 মুরগি, পুঁইশাক: ৳440.00</blockquote>\n<blockquote>📊 <b>সেপ্টেম্বর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳8950.00\nমোট ডিপোজিট: ৳10600.00\nমোট মিল: 199.5\nমিল রেট: ৳44.86</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n✅ Sadhon: ৳344.00 পাবে\n✅ Nahian: ৳361.41 পাবে\n✅ Shahria: ৳763.73 পাবে\n❌ Alamin: ৳66.90 দিতে হবে\n✅ Shopno: ৳347.32 পাবে\n✅ Ovi: ৳342.31 পাবে\n❌ Mujahid: ৳441.86 দিতে হবে</blockquote>",
