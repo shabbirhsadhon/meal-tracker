@@ -1013,6 +1013,45 @@
     },
     "mt3_tg_messages": [
       {
+        "id": "bt4tml6d",
+        "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 1 অক্টোবর 2026 (বৃহ)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 14)\n  👤 Sadhon: 2\n  👤 Nahian: 2\n  👤 Shahria: 2\n  👤 Alamin: 2\n  👤 Shopno: 2\n  👤 Ovi: 2\n  👤 Mujahid: 2</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  💰 Nahian: ৳38.91\n  💰 Alamin: ৳-23.21</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 বাজার: ৳150.00</blockquote>\n<blockquote>📊 <b>অক্টোবর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳150.00\nমোট ডিপোজিট: ৳15.70\nমোট মিল: 14\nমিল রেট: ৳10.71</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n❌ Sadhon: ৳21.43 দিতে হবে\n✅ Nahian: ৳17.48 পাবে\n❌ Shahria: ৳21.43 দিতে হবে\n❌ Alamin: ৳44.64 দিতে হবে\n❌ Shopno: ৳21.43 দিতে হবে\n❌ Ovi: ৳21.43 দিতে হবে\n❌ Mujahid: ৳21.43 দিতে হবে</blockquote>",
+        "sentAt": "2026-10-02T04:14:31.039707+06:00",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 2994
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 2995
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 2996
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 2997
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 2998
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 2999
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 3000
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 3001
+          }
+        ]
+      },
+      {
         "id": "muptq07bf9bl",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — অক্টোবর 2026\n<blockquote>💰 নতুন ডিপোজিট: Alamin — ৳-23.21 (জমা ৳150.00 - গত মাস দিতে হবে ৳173.21 = নেট ৳-23.21 (সেপ্টেম্বর 2026))</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳150.00\nমোট ডিপোজিট: ৳15.70\nমোট মিল: 14\nমিল রেট: ৳10.71</blockquote>",
         "sentAt": "2026-10-01T17:44:16.775Z",
