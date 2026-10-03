@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-10-03T15:47:50.309Z",
+  "createdAt": "2026-10-03T15:47:56.887Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1012,6 +1012,45 @@
       "finalMode": "mismatch"
     },
     "mt3_tg_messages": [
+      {
+        "id": "muskg2nuh3um",
+        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — অক্টোবর 2026\n<blockquote>🛒 নতুন খরচ: Bazar — ৳935.00 (Shopno)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳1805.00\nমোট ডিপোজিট: ৳3613.36\nমোট মিল: 41\nমিল রেট: ৳44.02</blockquote>",
+        "sentAt": "2026-10-03T15:47:55.386Z",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 3098
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 3099
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 3100
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 3101
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 3102
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 3103
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 3104
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 3105
+          }
+        ]
+      },
       {
         "id": "musfuidmwyfb",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — অক্টোবর 2026\n<blockquote>🍽 মিল পরিবর্তন: 3 তারিখ Mujahid: মিল 2→1 (মোট: 1)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳870.00\nমোট ডিপোজিট: ৳3613.36\nমোট মিল: 41\nমিল রেট: ৳21.22</blockquote>",
