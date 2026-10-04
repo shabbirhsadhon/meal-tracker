@@ -1013,6 +1013,45 @@
     },
     "mt3_tg_messages": [
       {
+        "id": "3yhil82j",
+        "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 4 অক্টোবর 2026 (রবি)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 14)\n  👤 Sadhon: 2\n  👤 Nahian: 2\n  👤 Shahria: 2\n  👤 Alamin: 2\n  👤 Shopno: 2\n  👤 Ovi: 2\n  👤 Mujahid: 2</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  💰 Shopno: ৳250.00</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 করলা, ডিম: ৳155.00\n  🛒 bazar: ৳50.00\n  🛒 মাছ, বেগুন, পিয়াজ, পলিথিন: ৳500.00</blockquote>\n<blockquote>📊 <b>অক্টোবর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳2510.00\nমোট ডিপোজিট: ৳3863.36\nমোট মিল: 55\nমিল রেট: ৳45.64</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n❌ Sadhon: ৳365.09 দিতে হবে\n❌ Nahian: ৳326.18 দিতে হবে\n✅ Shahria: ৳1210.60 পাবে\n❌ Alamin: ৳238.30 দিতে হবে\n✅ Shopno: ৳753.26 পাবে\n✅ Ovi: ৳638.53 পাবে\n❌ Mujahid: ৳319.45 দিতে হবে</blockquote>",
+        "sentAt": "2026-10-05T02:46:34.336984+06:00",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 3170
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 3171
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 3172
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 3173
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 3174
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 3175
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 3176
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 3177
+          }
+        ]
+      },
+      {
         "id": "mutx3q4898tu",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — অক্টোবর 2026\n<blockquote>🛒 নতুন খরচ: মাছ, বেগুন, পিয়াজ, পলিথিন — ৳500.00 (Sadhon)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳2510.00\nমোট ডিপোজিট: ৳3863.36\nমোট মিল: 55\nমিল রেট: ৳45.64</blockquote>",
         "sentAt": "2026-10-04T14:30:00.440Z",
