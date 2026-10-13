@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-10-13T18:24:47.566Z",
+  "createdAt": "2026-10-13T18:25:34.519Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -2822,6 +2822,13 @@
           "amount": 300,
           "date": "2026-10-12",
           "buyer": "Sadhon"
+        },
+        {
+          "id": "mv70havune4h",
+          "desc": "বাজার",
+          "amount": 290,
+          "date": "2026-10-14",
+          "buyer": ""
         }
       ],
       "adjustedUsers": {
