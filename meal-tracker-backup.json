@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-01T11:44:03.189Z",
+  "createdAt": "2026-11-01T12:29:47.111Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -293,7 +293,15 @@
           "isAdjustment": true
         }
       ],
-      "expenditures": [],
+      "expenditures": [
+        {
+          "id": "mvxt4xs7l5se",
+          "desc": "বাজার",
+          "amount": 1080,
+          "date": "2026-11-01",
+          "buyer": "Shahria"
+        }
+      ],
       "adjustedUsers": {
         "Shopno": true,
         "Ovi": true
