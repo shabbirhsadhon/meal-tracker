@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-05T18:38:24.055Z",
+  "createdAt": "2026-11-05T18:38:27.103Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -306,7 +306,17 @@
           "Mujahid": 2
         }
       },
-      "guests": {},
+      "guests": {
+        "5": {
+          "Sadhon": 0,
+          "Nahian": 0,
+          "Shahria": 0,
+          "Alamin": 0,
+          "Shopno": 0,
+          "Ovi": 0,
+          "Mujahid": 1
+        }
+      },
       "deposits": [
         {
           "id": "mvxrhrle55cj",
