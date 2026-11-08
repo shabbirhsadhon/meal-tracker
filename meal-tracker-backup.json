@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-08T12:01:08.605Z",
+  "createdAt": "2026-11-08T12:01:15.733Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1202,6 +1202,45 @@
       "finalMode": "mismatch"
     },
     "mt3_tg_messages": [
+      {
+        "id": "mw7s77xz789n",
+        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: bajar — ৳70.00 (Alamin)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳3240.00\nমোট ডিপোজিট: ৳4705.53\nমোট মিল: 58\nমিল রেট: ৳55.86</blockquote>",
+        "sentAt": "2026-11-08T12:01:14.231Z",
+        "msgIds": [
+          {
+            "chatId": "5567617813",
+            "msgId": 3877
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 3878
+          },
+          {
+            "chatId": "6667029843",
+            "msgId": 3879
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 3880
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 3881
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 3882
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 3883
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 3884
+          }
+        ]
+      },
       {
         "id": "d9r6knxs",
         "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 7 নভেম্বর 2026 (শনি)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 8)\n  👤 Sadhon: 2\n  👤 Alamin: 2\n  👤 Shopno: 1\n  👤 Ovi: 1\n  👤 Mujahid: 2</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  কোনো ডিপোজিট নেই</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 bajar: ৳60.00</blockquote>\n<blockquote>📊 <b>নভেম্বর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳3170.00\nমোট ডিপোজিট: ৳4705.53\nমোট মিল: 58\nমিল রেট: ৳54.66</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n❌ Sadhon: ৳628.53 দিতে হবে\n✅ Nahian: ৳0.00 পাবে\n✅ Shahria: ৳942.64 পাবে\n❌ Alamin: ৳156.82 দিতে হবে\n✅ Shopno: ৳1027.00 পাবে\n✅ Ovi: ৳1034.44 পাবে\n❌ Mujahid: ৳683.19 দিতে হবে</blockquote>",
