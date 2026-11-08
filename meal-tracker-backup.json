@@ -1240,6 +1240,45 @@
     },
     "mt3_tg_messages": [
       {
+        "id": "jl0mstg8",
+        "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 8 নভেম্বর 2026 (রবি)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 10)\n  👤 Sadhon: 2\n  👤 Alamin: 2\n  👤 Shopno: 2\n  👤 Ovi: 2\n  👤 Mujahid: 2</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  💰 Nahian: ৳-483.49</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 bajar: ৳30.00\n  🛒 Bazar: ৳310.00</blockquote>\n<blockquote>📊 <b>নভেম্বর মাসের সার্বিক অবস্থা:</b>\nমোট খরচ: ৳3950.00\nমোট ডিপোজিট: ৳4222.04\nমোট মিল: 68\nমিল রেট: ৳58.09</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n❌ Sadhon: ৳784.19 দিতে হবে\n❌ Nahian: ৳483.49 দিতে হবে\n✅ Shahria: ৳928.91 পাবে\n❌ Alamin: ৳312.48 দিতে হবে\n✅ Shopno: ৳876.49 পাবে\n✅ Ovi: ৳889.08 পাবে\n❌ Mujahid: ৳842.28 দিতে হবে</blockquote>",
+        "sentAt": "2026-11-09T03:34:43.564904+06:00",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 3941
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 3942
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 3943
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 3944
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 3945
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 3946
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 3947
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 3948
+          }
+        ]
+      },
+      {
         "id": "mw7zv3ap7nll",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: Bazar — ৳310.00 (Sadhon)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳3950.00\nমোট ডিপোজিট: ৳4222.04\nমোট মিল: 68\nমিল রেট: ৳58.09</blockquote>",
         "sentAt": "2026-11-08T15:35:45.266Z",
