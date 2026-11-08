@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-08T14:28:11.692Z",
+  "createdAt": "2026-11-08T14:28:18.361Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1209,6 +1209,45 @@
       "finalMode": "mismatch"
     },
     "mt3_tg_messages": [
+      {
+        "id": "mw7xgbiyuv5w",
+        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: Bazae — ৳300.00 (Shopno)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳3500.00\nমোট ডিপোজিট: ৳4705.53\nমোট মিল: 58\nমিল রেট: ৳60.34</blockquote>",
+        "sentAt": "2026-11-08T14:28:16.858Z",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 3901
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 3902
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 3904
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 3903
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 3906
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 3905
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 3907
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 3908
+          }
+        ]
+      },
       {
         "id": "mw7s77xz789n",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: bajar — ৳70.00 (Alamin)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳3240.00\nমোট ডিপোজিট: ৳4705.53\nমোট মিল: 58\nমিল রেট: ৳55.86</blockquote>",
