@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-11T09:42:02.909Z",
+  "createdAt": "2026-11-11T09:42:09.598Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -1729,6 +1729,45 @@
       "finalCash": 220
     },
     "mt3_tg_messages": [
+      {
+        "id": "mwbxjw0vkvrh",
+        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: Bazar — ৳410.00 (Ovi)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳5665.00\nমোট ডিপোজিট: ৳6774.03\nমোট মিল: 85\nমিল রেট: ৳66.65</blockquote>",
+        "sentAt": "2026-11-11T09:42:08.095Z",
+        "msgIds": [
+          {
+            "chatId": "6501020062",
+            "msgId": 4029
+          },
+          {
+            "chatId": "6667029843",
+            "msgId": 4030
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 4032
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 4031
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 4033
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 4034
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 4035
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 4036
+          }
+        ]
+      },
       {
         "id": "mwbv5bcl77i7",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: Bazar — ৳715.00 (Sadhon)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳5255.00\nমোট ডিপোজিট: ৳6774.03\nমোট মিল: 85\nমিল রেট: ৳61.82</blockquote>",
