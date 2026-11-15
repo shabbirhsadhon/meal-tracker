@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-15T12:38:12.375Z",
+  "createdAt": "2026-11-15T15:12:39.533Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -411,6 +411,13 @@
           "amount": 190,
           "date": "2026-11-15",
           "buyer": "Ovi"
+        },
+        {
+          "id": "mwhz4bketixl",
+          "desc": "মাছ",
+          "amount": 300,
+          "date": "2026-11-15",
+          "buyer": "Sadhon"
         }
       ],
       "adjustedUsers": {
