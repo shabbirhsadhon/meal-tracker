@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-18T13:42:33.787Z",
+  "createdAt": "2026-11-18T14:11:29.230Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -486,6 +486,13 @@
           "desc": "মুরগি",
           "amount": 290,
           "date": "2026-11-17",
+          "buyer": "Ovi"
+        },
+        {
+          "id": "mwm797j9u0pc",
+          "desc": "লাল শাক, ডিম",
+          "amount": 192,
+          "date": "2026-11-18",
           "buyer": "Ovi"
         }
       ],
