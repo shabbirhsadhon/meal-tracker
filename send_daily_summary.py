@@ -378,6 +378,24 @@ def record_message(backup, msg_text, msg_ids_list):
     backup["months"]["mt3_tg_messages"] = updated
     return backup
 
+def already_sent_today(backup):
+    """True if a daily summary was already recorded today (BST).
+
+    The scheduled cron is only a fallback now (an external timer triggers the
+    workflow at the exact time), so this stops the late cron run from sending
+    a duplicate. Set FORCE=true to skip this check (manual runs)."""
+    today = datetime.now(BST).date()
+    for m in backup.get("months", {}).get("mt3_tg_messages", []):
+        if "দৈনিক সারসংক্ষেপ" not in (m.get("text") or ""):
+            continue
+        try:
+            sent = datetime.fromisoformat(m.get("sentAt", "")).astimezone(BST).date()
+        except Exception:
+            continue
+        if sent == today:
+            return True
+    return False
+
 # ── Main ─────────────────────────────────────────────────────
 def main():
     # Only GH_PAT is required as a secret — bot token is read from the backup
@@ -392,6 +410,10 @@ def main():
     except Exception as e:
         print(f"❌ Failed to fetch backup: {e}")
         sys.exit(1)
+
+    if os.environ.get("FORCE", "").lower() != "true" and already_sent_today(backup):
+        print("⏭️ Today's summary was already sent — skipping (set FORCE=true to resend).")
+        return
 
     # Debug: show what keys exist
     month_keys = list(backup.get("months", {}).keys())
