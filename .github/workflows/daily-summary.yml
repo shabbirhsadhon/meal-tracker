@@ -1,12 +1,24 @@
 name: Daily Telegram Summary
 
 on:
-  # Auto-run every day at 18:01 UTC = 00:01 BST (Bangladesh Standard Time, UTC+6)
+  # Fallback only: GitHub's scheduler can run hours late. The exact-time trigger
+  # comes from an external timer calling the workflow_dispatch API at 00:01 BST.
+  # 18:01 UTC = 00:01 BST (UTC+6)
   schedule:
-    - cron: "1 18 * * *"
+    - cron: '1 18 * * *'
 
-  # Also allow manual trigger from GitHub Actions tab
+  # Manual / external trigger
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Send even if today's summary was already sent"
+        type: boolean
+        default: false
+
+# Never run two at once, so a late cron run can't race the external trigger
+concurrency:
+  group: daily-summary
+  cancel-in-progress: false
 
 jobs:
   send-summary:
@@ -24,4 +36,5 @@ jobs:
       - name: Run daily summary script
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
+          FORCE: ${{ inputs.force }}
         run: python send_daily_summary.py
