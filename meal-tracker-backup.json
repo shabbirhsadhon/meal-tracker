@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-22T10:43:36.101Z",
+  "createdAt": "2026-11-22T10:50:06.725Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -592,6 +592,13 @@
           "amount": 413,
           "date": "2026-11-22",
           "buyer": "Ovi"
+        },
+        {
+          "id": "mwrptn9uzyre",
+          "desc": "Pre - Balance Adjustment",
+          "amount": 223.01,
+          "date": "2026-11-22",
+          "buyer": ""
         }
       ],
       "adjustedUsers": {
