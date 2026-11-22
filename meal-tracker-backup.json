@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-22T13:31:57.917Z",
+  "createdAt": "2026-11-22T13:32:05.783Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -2044,6 +2044,45 @@
       "finalCash": 220
     },
     "mt3_tg_messages": [
+      {
+        "id": "mwrvlyk6kz82",
+        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: মাছ — ৳280.00 (Sadhon)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳10761.01\nমোট ডিপোজিট: ৳10960.01\nমোট মিল: 212.5\nমিল রেট: ৳50.64</blockquote>",
+        "sentAt": "2026-11-22T13:32:04.278Z",
+        "msgIds": [
+          {
+            "chatId": "6667029843",
+            "msgId": 4453
+          },
+          {
+            "chatId": "6501020062",
+            "msgId": 4454
+          },
+          {
+            "chatId": "7845211938",
+            "msgId": 4455
+          },
+          {
+            "chatId": "8815336624",
+            "msgId": 4456
+          },
+          {
+            "chatId": "8594778816",
+            "msgId": 4457
+          },
+          {
+            "chatId": "6029143590",
+            "msgId": 4458
+          },
+          {
+            "chatId": "7863401687",
+            "msgId": 4460
+          },
+          {
+            "chatId": "5567617813",
+            "msgId": 4459
+          }
+        ]
+      },
       {
         "id": "mwrptsp56dix",
         "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: Pre - Balance Adjustment — ৳223.01</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমোট খরচ: ৳10481.01\nমোট ডিপোজিট: ৳10960.01\nমোট মিল: 212.5\nমিল রেট: ৳49.32</blockquote>",
