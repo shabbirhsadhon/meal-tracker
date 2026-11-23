@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-23T11:15:03.822Z",
+  "createdAt": "2026-11-23T11:15:05.723Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -335,6 +335,13 @@
         {
           "id": "mwt65fiactxr",
           "user": "Sadhon",
+          "amount": 250,
+          "date": "2026-11-23",
+          "note": ""
+        },
+        {
+          "id": "mwt65ml9329u",
+          "user": "Shopno",
           "amount": 250,
           "date": "2026-11-23",
           "note": ""
