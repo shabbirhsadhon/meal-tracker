@@ -5,7 +5,7 @@ on:
   # comes from an external timer calling the workflow_dispatch API at 00:01 BST.
   # 18:01 UTC = 00:01 BST (UTC+6)
   schedule:
-    - cron: '1 18 * * *'
+    - cron: '10 18 * * *'
 
   # Manual / external trigger
   workflow_dispatch:
