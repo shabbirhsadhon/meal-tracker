@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2026-11-28T12:18:11.843Z",
+  "createdAt": "2026-11-28T12:18:25.856Z",
   "appName": "মিলট্র্যাকার",
   "users": [
     "Sadhon",
@@ -2231,84 +2231,6 @@
       "finalCash": 220
     },
     "mt3_tg_messages": [
-      {
-        "id": "mx0dm1b9bxrp",
-        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 খরচ মুছেছে: test — ৳1.00</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমিল ব্যালেন্স: ৳276.00\nমোট খরচ: ৳13184.01\nমোট ডিপোজিট: ৳13460.01\nমোট মিল: 273.5\nমিল রেট: ৳48.20</blockquote>",
-        "sentAt": "2026-11-28T12:18:10.341Z",
-        "msgIds": [
-          {
-            "chatId": "6667029843",
-            "msgId": 4741
-          },
-          {
-            "chatId": "5567617813",
-            "msgId": 4743
-          },
-          {
-            "chatId": "6029143590",
-            "msgId": 4742
-          },
-          {
-            "chatId": "6501020062",
-            "msgId": 4744
-          },
-          {
-            "chatId": "7863401687",
-            "msgId": 4745
-          },
-          {
-            "chatId": "8815336624",
-            "msgId": 4746
-          },
-          {
-            "chatId": "8594778816",
-            "msgId": 4747
-          },
-          {
-            "chatId": "7845211938",
-            "msgId": 4748
-          }
-        ]
-      },
-      {
-        "id": "mx0dlkfth3lo",
-        "text": "📝 <b>মিলট্র্যাকার আপডেট</b> — নভেম্বর 2026\n<blockquote>🛒 নতুন খরচ: test — ৳1.00 (Sadhon)</blockquote>\n<blockquote>📊 <b>চলতি অবস্থা:</b>\nমিল ব্যালেন্স: ৳275.00\nমোট খরচ: ৳13185.01\nমোট ডিপোজিট: ৳13460.01\nমোট মিল: 273.5\nমিল রেট: ৳48.21</blockquote>",
-        "sentAt": "2026-11-28T12:17:48.473Z",
-        "msgIds": [
-          {
-            "chatId": "6667029843",
-            "msgId": 4733
-          },
-          {
-            "chatId": "6029143590",
-            "msgId": 4734
-          },
-          {
-            "chatId": "7863401687",
-            "msgId": 4736
-          },
-          {
-            "chatId": "5567617813",
-            "msgId": 4735
-          },
-          {
-            "chatId": "6501020062",
-            "msgId": 4737
-          },
-          {
-            "chatId": "8594778816",
-            "msgId": 4738
-          },
-          {
-            "chatId": "7845211938",
-            "msgId": 4739
-          },
-          {
-            "chatId": "8815336624",
-            "msgId": 4740
-          }
-        ]
-      },
       {
         "id": "hj495qap",
         "text": "🌙 <b>দৈনিক সারসংক্ষেপ — 27 নভেম্বর 2026 (শুক্র)</b>\n<blockquote>🍽 <b>গতকালের মিল</b> (মোট: 11.5)\n  👤 Sadhon: 2\n  👤 Nahian: 1\n  👤 Shahria: 2\n  👤 Alamin: 1\n  👤 Shopno: 1.5\n  👤 Ovi: 2\n  👤 Mujahid: 2</blockquote>\n<blockquote>💰 <b>গতকালের ডিপোজিট</b>\n  💰 Mujahid: ৳250.00</blockquote>\n<blockquote>🛒 <b>গতকালের খরচ</b>\n  🛒 চাল: ৳200.00\n  🛒 Bazar: ৳250.00</blockquote>\n<blockquote>📊 <b>নভেম্বর মাসের সার্বিক অবস্থা:</b>\nমিল ব্যালেন্স: ৳276.00\nমোট খরচ: ৳13184.01\nমোট ডিপোজিট: ৳13460.01\nমোট মিল: 273.5\nমিল রেট: ৳48.20</blockquote>\n<blockquote>⚖️ <b>দেনা পাওনা:</b>\n✅ Sadhon: ৳358.67 পাবে\n✅ Nahian: ৳156.00 পাবে\n✅ Shahria: ৳270.50 পাবে\n❌ Alamin: ৳273.40 দিতে হবে\n❌ Shopno: ৳79.26 দিতে হবে\n✅ Ovi: ৳19.02 পাবে\n❌ Mujahid: ৳175.54 দিতে হবে</blockquote>",
