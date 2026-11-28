@@ -36,5 +36,6 @@ jobs:
       - name: Run daily summary script
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           FORCE: ${{ inputs.force }}
         run: python send_daily_summary.py
